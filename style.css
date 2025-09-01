@@ -1,5 +1,8 @@
 #imgTitle {
-    width:400px;
+    width:800px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
 }
 .button1 {
     color:white;
