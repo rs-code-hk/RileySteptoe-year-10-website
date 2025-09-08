@@ -11,6 +11,15 @@
     background-color:black;
     border-width:5px;
 }
+.IL10hr {
+    height:450px;
+    /*Setup Flex*/
+    display:flex;
+    flex-flow:column wrap;
+    /*Position Items*/
+    align-content: center;
+    column-gap:35px;
+}
 /*@s*/
 @font-face {
     font-family:Trajan Pro Regular;
