@@ -1,18 +1,22 @@
+/*IDs*/
 #imgTitle {
     width:800px;
     display:block;
     margin-left: auto;
     margin-right: auto;
 }
+/*Classes*/
 .button1 {
     color:white;
     background-color:black;
     border-width:5px;
 }
+/*@s*/
 @font-face {
     font-family:Trajan Pro Regular;
     src: url("Trajan Pro Regular\\Trajan Pro Regular.ttf");
 }
+/*Html*/
 h1 {
     font-family:Trajan Pro Regular;
 }
