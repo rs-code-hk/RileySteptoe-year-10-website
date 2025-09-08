@@ -9,3 +9,13 @@
     background-color:black;
     border-width:5px;
 }
+@font-face {
+    font-family:Trajan Pro Regular;
+    src: url("Trajan Pro Regular\\Trajan Pro Regular.ttf");
+}
+h1 {
+    font-family:Trajan Pro Regular;
+}
+p {
+    font-family:Trajan Pro Regular;
+}
