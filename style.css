@@ -20,18 +20,15 @@
     align-content: center;
     column-gap:35px;
 }
+.revealSteps {
+    font-size:18px;
+}
 /*@s*/
 @font-face {
     font-family:Trajan Pro Regular;
     src: url("Trajan Pro Regular\\Trajan Pro Regular.ttf");
 }
 /*Html*/
-h1 {
-    font-family:Trajan Pro Regular;
-}
-h3 {
-    font-family:Trajan Pro Regular;
-}
-p {
+body {
     font-family:Trajan Pro Regular;
 }
