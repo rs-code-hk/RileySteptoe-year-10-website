@@ -22,6 +22,15 @@
     align-content: center;
     column-gap:35px;
 }
+#IL2hr {
+    height:150px;
+    /*Setup Flex*/
+    display:flex;
+    flex-flow:column wrap;
+    /*Position Items*/
+    align-content: center;
+    column-gap:35px;
+}
 /*Classes*/
 .button1 {
     color:white;
