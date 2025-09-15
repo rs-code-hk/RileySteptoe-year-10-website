@@ -53,6 +53,10 @@
     font-size:18px;
     font-weight:bold;
 }
+.title {
+    background-image: url("Images/BGImage.png");
+    background-size: 105%;
+}
 /*@s*/
 @font-face {
     font-family:Trajan Pro Regular;
@@ -61,10 +65,5 @@
 /*Html*/
 body {
     font-family:Trajan Pro Regular;
-    background-image: url("Images/BGImage.png");
-    background-size: 105%;
     color:grey;
-}
-p {
-
 }
