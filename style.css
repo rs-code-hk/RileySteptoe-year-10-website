@@ -65,5 +65,6 @@
 /*Html*/
 body {
     font-family:Trajan Pro Regular;
-    color:grey;
+    color:white;
+    background-color:rgb(14, 14, 25);
 }
