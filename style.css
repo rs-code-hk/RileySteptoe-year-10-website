@@ -58,4 +58,10 @@
 /*Html*/
 body {
     font-family:Trajan Pro Regular;
+    background-image: url("Images/BGImage.png");
+    background-size: 105%;
+    color:grey;
+}
+p {
+
 }
