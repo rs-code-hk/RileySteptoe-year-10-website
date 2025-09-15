@@ -41,6 +41,9 @@
     column-gap:35px;
 }
 /*Classes*/
+.ImageButton {
+    width:15%;
+}
 .button1 {
     color:white;
     background-color:black;
