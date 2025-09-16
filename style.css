@@ -49,6 +49,15 @@
     align-content: center;
     column-gap:35px;
 }
+#ILWr1221 {
+    height:150px;
+    /*Setup Flex*/
+    display:flex;
+    flex-flow:column wrap;
+    /*Position Items*/
+    align-content: center;
+    column-gap:35px;
+}
 #MainMenuButtons {
     width:700px;
     margin-left:auto;
